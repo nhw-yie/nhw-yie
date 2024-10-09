@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="meoload.gif" width="1200" alt="nhw_yie-official" />
+  <img src="meoload.gif" width="900"alt="nhw_yie-official" />
 </a>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
