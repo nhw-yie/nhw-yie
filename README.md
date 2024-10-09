@@ -1,6 +1,8 @@
+<div align="center">
 <a href="#" target="_blank">
-  <img src="meoload.gif" width="900"alt="nhw_yie-official" />
+  <img src="meoload.gif" width="00" height="500" alt="nhw_yie-official" />
 </a>
+   </div>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
