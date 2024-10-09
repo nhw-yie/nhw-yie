@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#" target="_blank">
-  <img src="meoload.gif" width="00" height="500" alt="nhw_yie-official" />
+  <img src="meoload.gif" width="600" height="500" alt="nhw_yie-official" />
 </a>
    </div>
 <br>
@@ -20,6 +20,4 @@
   </a>
 </div>
 
-
-<!--
 
