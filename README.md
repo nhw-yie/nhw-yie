@@ -4,8 +4,8 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://dribbble.com/shots/3197970-Loading-cat/attachments/9699095?mode=media" target="blank">
-    <img width="90" height="90" src="images/conmeo.png" />
+  <a href="#" target="blank">
+    <img width="90" height="90" src="conmeo.png" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100030712728514" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhw_yiee-facebook" />
