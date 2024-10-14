@@ -12,7 +12,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nhw_yiee-facebook" />
   </a>
  
-  <a href="https://www.instagram.com/_nhw.yie_1011/" target="blank">
+  <a href="https://www.instagram.com/nhw.yie_ng/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nhw_yiee-instagram" />
   </a>
   <a href="mailto:nvny2809@gmail.com" target="top">
