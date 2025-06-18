@@ -1,7 +1,6 @@
 <div align="center">
-<a href="#" target="_blank">
-  <img src="meoload.gif" width="600" height="500" alt="nhw_yie-official" />
-</a>
+
+  ![image](https://github.com/user-attachments/assets/7c2164f4-2856-4680-b6b6-138fa8dc2892)
    </div>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
